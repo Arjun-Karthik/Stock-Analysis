@@ -92,7 +92,7 @@ Install all with:
 
 ## 🎥 Demo Video
 
-   <a src="https://www.linkedin.com/posts/arjun-t-a51383200_stock-performance-dashboard-visualization-activity-7356235958826012672-QRSc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNQBh0BQsEphYCjQb01l17Z8-pUyINZuxs">Stock Performance Dashboard Demo Video</a>
+   <a href="https://www.linkedin.com/posts/arjun-t-a51383200_stock-performance-dashboard-visualization-activity-7356235958826012672-QRSc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNQBh0BQsEphYCjQb01l17Z8-pUyINZuxs">Stock Performance Dashboard Demo Video</a>
 
 ## 📃 License
 
