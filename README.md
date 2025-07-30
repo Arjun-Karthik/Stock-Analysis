@@ -92,7 +92,7 @@ Install all with:
 
 ## 🎥 Demo Video
 
-   <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7356235758082383873" height="488" width="504" frameborder="0" allowfullscreen="" title="Embedded post">Stock Performance Dashboard Demo Video</iframe>
+   <a src="https://www.linkedin.com/posts/arjun-t-a51383200_stock-performance-dashboard-visualization-activity-7356235958826012672-QRSc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNQBh0BQsEphYCjQb01l17Z8-pUyINZuxs">Stock Performance Dashboard Demo Video</a>
 
 ## 📃 License
 
