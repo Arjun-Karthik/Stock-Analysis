@@ -17,6 +17,7 @@ st.markdown("""
     <hr style='border-top: 3px solid #bbb;'>
 """, unsafe_allow_html=True)
 
+# Upload CSV File
 file = st.file_uploader("📂 Upload your Stock Market CSV file", type=['csv'])
 
 if file:
@@ -137,3 +138,4 @@ if file:
         fig, ax = plt.subplots(figsize=(12, 10))
         sns.heatmap(corr_matrix, cmap='coolwarm', fmt=".2f", linewidths=0.5, ax=ax)
         st.pyplot(fig)
+
